@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, Yus here 👋
+🌱 I’m currently learning Data Science to switch my career path. As an aspiring Data Scientist, I am well-equipped with Python, SQL, machine learning, and data analytics, albeit with basic.
+
 
 <!--
 **yus47/yus47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
